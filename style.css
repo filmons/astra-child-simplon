@@ -36,3 +36,34 @@ Template: astra
 
 /* your code starts here 👇 */
 
+.has-white-color {
+  color:#FFFFFF;
+}
+.has-white-background-color {
+    background-color:#FFFFFF;
+}
+.has-black-color {
+  color:#0000;
+}
+.has-black-background-color {
+    background-color:#0000;
+}
+.has-caramel-color {
+  color:#8B572A;
+}
+.has-caramel-background-color {
+    background-color:#8B572A;
+}
+.has-vanilla-color {
+  color:#EBE5D9;
+}
+.has-vanilla-background-color {
+    background-color:#EBE5D9;
+}
+
+.has-capuccino-color {
+  color:#B09F82;
+}
+.has-capuccino-background-color {
+    background-color:#B09F82;
+}
